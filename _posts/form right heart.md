@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于「右心居（right heart）」
+title: right heart
 date: 2019-06-08
 Author: Noly
 categories: 
