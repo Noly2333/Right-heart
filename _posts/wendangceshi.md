@@ -1,14 +1,12 @@
-```
 ---
 layout: post
-title: LOFFER文档
-date: 2019-06-02
-Author: 来自中世界
+title: Markdown语法简介
+date: 2013-07-16
+Author: Shengbin
 categories: 
-tags: [sample, document]
+tags: [sample, markdown]
 comments: true
---- 
-```
+---
 
 # 文档测试
 
