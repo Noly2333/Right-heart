@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Markdown语法简介
-date: 2013-07-16
+title: Markdown
+date: 2013-06-08
 Author: Shengbin
 categories: 
 tags: [sample, markdown]
