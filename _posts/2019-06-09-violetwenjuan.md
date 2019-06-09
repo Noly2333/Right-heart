@@ -4,7 +4,7 @@ title: 「人物采访」法阿蕾特（未完）
 date: 2019-06-09
 Author: N循环
 categories: 
-tags: [sample, markdown]
+tags: [sample, markdown, 人物设定, H.T, Violet]
 comments: true
 ---
 
