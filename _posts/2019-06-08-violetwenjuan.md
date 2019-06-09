@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 「人物采访」法阿蕾特（未完）
-date: 2019-06-09
+date: 2019-06-08
 Author: N循环
 categories: 
 tags: [人物设定, H.T, Violet]
