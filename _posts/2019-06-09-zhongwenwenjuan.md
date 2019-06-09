@@ -4,7 +4,7 @@ title: H.T世界观问卷
 date: 2019-06-08
 Author: Noly
 categories: 
-tags: [sample, markdown, H.T, 世界观]
+tags: [H.T, 世界观]
 comments: true
 ---
 
