@@ -39,9 +39,10 @@ HT的世界相对于现实宇宙或者世界观内的元宇宙，只包含了约
 
   详见下图（点击链接可查看）：
   
-  [元宇宙 1](<https://i.loli.net/2019/06/09/5cfca948d542b51250.png>)
+<https://i.loli.net/2019/06/09/5cfcab6458ead54284.png>
+<https://i.loli.net/2019/06/09/5cfcab847187b37500.png>
   
-  [元宇宙 2](<https://i.loli.net/2019/06/09/5cfca9f142c6c41930.png>)
+
 
 
 
